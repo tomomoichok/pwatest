@@ -1,2 +1,2 @@
-# pwatest
-pwa test
+# pwa-app
+pwa sample app
